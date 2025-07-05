@@ -1,5 +1,7 @@
 # rpcs3-uncharted-config
 
+Works for uncharted 1,2,3
+
 ![WhatsApp Image 2025-07-05 at 17 32 07](https://github.com/user-attachments/assets/02db1d7b-90a5-4169-9f7d-3e2acc5f84c9)
 ![WhatsApp Image 2025-07-05 at 17 32 08](https://github.com/user-attachments/assets/f4eab01d-d236-4a76-a26b-b4de25d24b01)
 ![WhatsApp Image 2025-07-05 at 17 32 08(1)](https://github.com/user-attachments/assets/f089352b-3f49-472e-baca-58b39af32faf)
